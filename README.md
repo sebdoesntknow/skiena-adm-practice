@@ -1,6 +1,6 @@
-# Implementaions of the algorithms in Skiena's book, (The algorithm design manual)(https://www.algorist.com/)
+# Skiena's book [The algorithm design manual](https://www.algorist.com/) algorithm examples
 
-## Impelemented in the following languages
+## Languages used so far
 
 * Rust
 * Ocaml
