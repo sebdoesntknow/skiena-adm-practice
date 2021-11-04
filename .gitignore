@@ -1,0 +1,4 @@
+# Ignore all
+*
+# Include only files  with extensions
+!*.*
